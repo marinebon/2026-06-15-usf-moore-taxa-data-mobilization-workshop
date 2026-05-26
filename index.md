@@ -3,19 +3,19 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "AIR Centre"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Hotel Terceira Mar, Portões de São Pedro, nº1, 9700-097, Angra do Heroísmo"   
-country: "pt"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
+venue: "University of South Florida"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "STG 115, University of South Florida St Petersburg"   
+country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
-latitude: "38.656"        # decimal latitude of workshop venue (use https://www.latlong.net/)
-longitude: "-27.231"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "10-14 November 2025"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "08:30-17:30"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
-startdate: 2025-11-10      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2025-11-15        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Carolina Peralta", "Tylar Murray", "Nuno Álvaro", "Gonzalo Bravo"] # boxed, comma-separated list of instructors' names as strings
-helper: ["Joana Soares", "Adriano Lima", "Enrique Montes", "Jacqueline Dearborn"]     # boxed, comma-separated list of helpers' names
-email: ["joana.soares@aircentre.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+latitude: "27.763"        # decimal latitude of workshop venue (use https://www.latlong.net/)
+longitude: "82.634"       # decimal longitude of the workshop venue (use https://www.latlong.net)
+humandate: "15-17 June 2026"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "08:30-17:00"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+startdate: 2026-06-15      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2026-06-17        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Carolina Peralta", "Tylar Murray", "Cara Estes"] # boxed, comma-separated list of instructors' names as strings
+helper: []     # boxed, comma-separated list of helpers' names
+email: ["peraltabrichtova@usf.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
@@ -69,7 +69,7 @@ the pitch.
 
 <img src="img/logo-workshop.png" alt="workshop logo image">
 
-The Marine Biodiversity Observation Network (MBON) and the AIR Centre will host a small, hands-on, interactive workshop focused on mobilizing marine biological observation datasets to the Ocean Biodiversity Information System (OBIS). The objective is to help data holders understand the value of following good practices for standardizing biological data, using widely accepted biodiversity standards like Darwin Core. This would include records of different biological attributes and ecosystem observations from different types of sampling methodologies. A complementary activity of the workshop will contemplate a field work day in which participants will receive training on the collection and processing of benthic photo-quadrat imagery and their analysis following MBON Pole to Pole monitoring protocols, aiming to enhance capacity for long-term monitoring of rocky intertidal communities.
+The University of South Florida (USF), Moore Marine College, and the Marine Biodiversity Observation Network (MBON) will host a small, hands-on, interactive workshop focused on mobilizing marine biological observation datasets to the Ocean Biodiversity Information System (OBIS). The objective is to help data holders understand the value of following good practices for standardizing biological data, using widely accepted biodiversity standards like Darwin Core. This would include records of different biological attributes and ecosystem observations from different types of sampling methodologies. 
 
 By the end of the workshop, attendees will have a clear understanding of the process of mobilizing biological data to OBIS and will have brought one of their datasets to a final maturity state that aligns with best practices for data sharing and biodiversity documentation. The workshop will also enhance awareness of improving the quality of marine biodiversity data and will increase the availability of marine biological data for scientific research, species conservation, and ecosystem-based management by promoting data publication through OBIS. Additionally, the workshop will foster collaborative research efforts among participants and contribute to the MBON community of practice by increasing capacity in the implementation of coordinated and standardized biodiversity observing and publishing efforts.
 
@@ -177,7 +177,6 @@ Participants are expected to have familiarity with:
 <li> Using spreadsheet tools (e.g., Excel, LibreOffice, Google Sheets). </li>
 <li> File handling & different file formats (Working with CSV, TXT, and Excel formats). </li>
 <li> Basic Python or R programming. </li>
-<li> Study of sandy beach or rocky shore environments (not mandatory). </li>
 <li> Basic data wrangling skills for marine biodiversity data management (e.g., data structuring). </li>
 
   Familiarity with a few specific software packages are recommended (listed <a href="#setup">below</a>).
