@@ -67,7 +67,7 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-<img src="img/logo-workshop.png" alt="workshop logo image">
+<img src="img/logo-workshop.png" alt="workshop logo image" style='width:"100%"'>
 
 The University of South Florida (USF), Moore Marine College, and the Marine Biodiversity Observation Network (MBON) will host a small, hands-on, interactive workshop focused on mobilizing marine biological observation datasets to the Ocean Biodiversity Information System (OBIS). The objective is to help data holders understand the value of following good practices for standardizing biological data, using widely accepted biodiversity standards like Darwin Core. This would include records of different biological attributes and ecosystem observations from different types of sampling methodologies. 
 
