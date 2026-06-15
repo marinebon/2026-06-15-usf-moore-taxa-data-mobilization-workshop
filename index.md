@@ -21,7 +21,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 ---
 
-Please report any issues or feedback [here](https://github.com/marinebon/2026-06-15-usf-moore-taxa-data-mobilization-workshop/issues).
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
@@ -200,6 +199,10 @@ Display the contact email address set in the configuration file.
   to-be-announced
   {% endif %}
   for more information.
+</p>
+
+<p>
+  Please report any issues or feedback [here](https://github.com/marinebon/2026-06-15-usf-moore-taxa-data-mobilization-workshop/issues).
 </p>
 
 <hr/>
