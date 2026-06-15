@@ -202,7 +202,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 <p>
-  Please report any issues or feedback [here](https://github.com/marinebon/2026-06-15-usf-moore-taxa-data-mobilization-workshop/issues).
+  Please report any issues or feedback <a href="https://github.com/marinebon/2026-06-15-usf-moore-taxa-data-mobilization-workshop/issues">here</a>.
 </p>
 
 <hr/>
